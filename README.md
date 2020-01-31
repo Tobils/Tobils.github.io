@@ -1,6 +1,6 @@
-# Membuat web user_name.github.io
+# Membuat user_name.github.io
 
-- untuk membuat web menggunakan github.io kita dapat mengikuti instruksi sebagai berikut :
+Kita dapat membuat web menggunakan github.io.untuk membuat web menggunakan github.io kita dapat mengikuti instruksi sebagai berikut :
 	1. membuat repository baru, dengan nama misalkan : tobils.github.io
 	2. memilih theme
 	3. git clone example.user_name.github.io.git
