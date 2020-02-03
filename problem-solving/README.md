@@ -1,0 +1,1 @@
+# Solusi sekitar permasalahan dalam ngoding
